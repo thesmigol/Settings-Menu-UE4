@@ -6,20 +6,21 @@ A simple settings menu for your unreal engine project
 Visual very ugly ops ... pretty simple
 
 Created in version 4.19
+
 Tested in versions 4.19 and 4.20
 
 
 
 
 To add to your project copy the "SetingsMenu" folder to the "Content" folder of your project and add this blueprint to your character
-![alt text](/Screenshots/Screenshot1.png)
+![1](/Screenshots/Screenshot1.png)
 
 
 # Screenshots
 
-![alt text](/Screenshots/Screenshot2.png)
+![2](/Screenshots/Screenshot2.png)
 
-![alt text](/Screenshots/Screenshot3.png)
+![3](/Screenshots/Screenshot3.png)
 
 
 
